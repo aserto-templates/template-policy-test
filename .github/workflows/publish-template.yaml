@@ -9,7 +9,7 @@ on:
 jobs:
   publish-template:
     runs-on: ubuntu-latest
-    name: release-content
+    name: build
 
     steps:
     - uses: actions/checkout@v3
