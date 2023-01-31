@@ -1,2 +1,3 @@
 # template-policy-test
-template test policy
+
+test policy template
